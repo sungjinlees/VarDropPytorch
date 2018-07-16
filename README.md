@@ -57,8 +57,8 @@ Despite of high performance of implemented layers in "end-to-end" mode, authors 
 ```
 @misc{VarDropPytorch,
   author = {Artem Ryzhikov},
-  title = {Leensman/VarDropPytorch},
-  url = {https://github.com/Leensman/VarDropPytorch},
+  title = {HolyBayes/VarDropPytorch},
+  url = {https://github.com/HolyBayes/VarDropPytorch},
   year = {2018}
 }
 ```
